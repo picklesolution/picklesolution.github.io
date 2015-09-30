@@ -1,0 +1,15 @@
+h1{
+	color: #000000;
+	font-family: Helvetica, sans-srif;
+
+
+}
+
+.mydiv {
+	width: 400px;
+	height: 600px;
+	background-color: #FF00FF;
+	border: dashed 3px #000000;
+	margin: 20px;
+	padding: 10px 20px 10px 20px;
+}
